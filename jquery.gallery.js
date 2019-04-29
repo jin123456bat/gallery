@@ -31,8 +31,6 @@ jQuery.fn.extend({
 					}
 				});
 				
-				console.log(image_url);
-				
 				if(typeof image_url == 'string')
 				{
 					var is_image = true;
