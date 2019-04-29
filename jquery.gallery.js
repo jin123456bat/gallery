@@ -111,8 +111,6 @@ jQuery.fn.extend({
 					position:'fixed',
 				    zIndex: '1002',
 				}).on('click',function(){
-					// $(this).remove();
-					// bg.remove();
 					return false;
 				});
 				
